@@ -1,6 +1,5 @@
-# Natural-Language-Processing-Basis-Operations
 
-Natural Language Processing Basis Operations
+## Natural Language Processing Basis Operations
 
 
 ## Table of Content:
